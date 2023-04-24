@@ -5,3 +5,8 @@ body{
 .para{
     font-weight: bold;
 }
+
+.ab{
+font-style: italic;
+    font-weight:800 ;
+}
